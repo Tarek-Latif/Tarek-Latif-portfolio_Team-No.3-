@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+	margin-top: 51px;
+    
+}
+
+h1 , h2
+{
+    color: firebrick;
+	width: 200px;
+}
+p
+{
+    font-family: 'Pacifico', cursive;
+}
+.c.img-responsive{
+	margin-top: 52px;
+}
+
+
+.about
+{
+    height: 400px;
+    margin: 100 0;
+    padding: 70px;
+    background-color:whitesmoke;
+    
+}
+
+
+
+.send
+{
+    margin: 20 80px;
+}
+
+button
+{
+    width: 100px
+}
